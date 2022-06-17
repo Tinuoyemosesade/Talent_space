@@ -1,0 +1,4 @@
+Added prettier as a dev dependecy: https://prettier.io/docs/en/install.html
+
+To format your code using prettier, run `npx prettier --write .`, this will format every file in your project based on Prettier, except for the files you specify in `.prettierignore`.
+You can configure what Prettier does by updating the `.prettierrc.json` file with some options (ie you want to enable tabbing, you can also define how big the tabs should be, etc.)

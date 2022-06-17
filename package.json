@@ -1,0 +1,27 @@
+{
+    "name": "Talent-Space",
+    "version": "1.0.0",
+    "description": "",
+    "main": "e2e.js",
+    "scripts": {
+        "test": "cypress run",
+        "cy:open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tinuoyemosesade/Trivago-test.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Tinuoyemosesade/Trivago-test/issues"
+    },
+    "homepage": "https://github.com/Tinuoyemosesade/Trivago-test#readme",
+    "dependencies": {
+        "cypress": "^9.7.0"
+    },
+    "devDependencies": {
+        "prettier": "2.7.1"
+    }
+}
