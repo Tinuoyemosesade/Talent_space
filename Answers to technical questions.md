@@ -18,11 +18,11 @@ Improvements i will make if i had more time:
 
 Yes. In the past, I was responsible for setting up the testing infrastrucutre form scratch. Our app was a React application and had a very rich data interface. The main challenge adding id's to generic components written in React.
 
-The steps I followed in order to make the project a success where:
+The steps I followed in order to make the project a success were:
 
 -   1.  Define the test cases with the dev team
 -   2.  Choose and end to end tool: Cypress
 -   3.  Discussed test strategies with the team : decided on using id's and data-cy as best practices indicates in cypress documentation
 -   4.  Write tests (add missing selectors)
 -   5.  Refactoring (for example separate login and logout as Cypress Commands)
--   6.  Add tests to the CI / CD pipeline --> in our case it was GitHub, add build number, [Cypress dashboard] (https://www.cypress.io/dashboard/)
+-   6.  Add tests to the CI / CD pipeline --> in our case it was GitHub [Cypress dashboard] (https://www.cypress.io/dashboard/)
