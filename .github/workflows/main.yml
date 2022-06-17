@@ -4,7 +4,7 @@ jobs:
 cypress-run:
 runs-on: ubuntu-latest
 steps:
-- name: Checkout
+-  name: Checkout
 uses: actions/checkout@v2.4.2
-- name: Cypress.io
-uses: cypress-io/github-action@v4.1.0
+-name: Cypress.io
+uses:cypress-io/github-action@v4.1.0
